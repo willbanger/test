@@ -1,0 +1,29 @@
+body{
+    background-image: url("signup.jpg");
+}
+
+#content-container{
+    margin: 0 auto;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    right: 10%;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-bottom: 50px;
+    padding-top: 25px;
+}
+
+form{
+    position: relative;
+    top: 15px;
+}
+
+.btn{
+    position: relative;
+    left: 80%;
+}
+
+#login-wrapper{
+    display:none;
+}
